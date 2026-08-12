@@ -15,29 +15,29 @@
 
 <p align="justify">A primeira camada reúne os números que ajudam a responder as perguntas mais importantes do negócio: quanto vendeu, quantos pedidos recebeu, qual foi o ticket médio, como a operação se comportou, quanto foi efetivamente recebido e qual foi o resultado observado no período.</p>
 
-![Qualidade da operação no Delivery 360](assets/delivery360-operations.svg)
-
 ### Operação e qualidade
 
 <p align="justify">O módulo operacional transforma ocorrências espalhadas em uma leitura de prioridades. Disponibilidade, cancelamentos, tempo médio, desempenho e alertas aparecem lado a lado para que a equipe consiga identificar exceções e agir antes que elas se repitam.</p>
 
-![Análise comercial de produtos e cardápio](assets/delivery360-commercial.svg)
+![Qualidade da operação no Delivery 360](assets/delivery360-operations.svg)
 
 ### Vendas, produtos e cardápio
 
 <p align="justify">A visão comercial mostra quais categorias participam mais do resultado, quais produtos merecem atenção, como o ticket evolui e quais horários ou períodos apresentam oportunidades. A ideia não é apenas mostrar o que vendeu, mas ajudar a interpretar o mix do restaurante.</p>
 
-![Financeiro e conciliação demonstrativos](assets/delivery360-finance.svg)
+![Análise comercial de produtos e cardápio](assets/delivery360-commercial.svg)
 
 ### Financeiro e conciliação
 
 <p align="justify">O Delivery 360 separa faturamento, recebimentos, taxas, divergências, margem e resultado. Essa separação é importante porque vender não significa necessariamente receber o mesmo valor no mesmo momento. A conciliação organiza essa diferença e facilita a leitura do fluxo de caixa. Os números apresentados aqui são demonstrativos, e ausência de dado não é tratada como zero.</p>
 
-![Ecossistema de dados, lojas e relatórios](assets/delivery360-ecosystem.svg)
+![Financeiro e conciliação demonstrativos](assets/delivery360-finance.svg)
 
 ### Múltiplas lojas, fontes e relatórios
 
 <p align="justify">Quando o restaurante possui mais de uma unidade ou trabalha com diferentes fontes de venda, a plataforma pode consolidar os dados em uma visão geral e, ao mesmo tempo, permitir o detalhamento por loja, período e origem. Atualizações automatizadas, relatórios gerenciais, alertas de exceção e histórico de evolução completam o ecossistema.</p>
+
+![Ecossistema de dados, lojas e relatórios](assets/delivery360-ecosystem.svg)
 
 ## Uma plataforma que traduz complexidade
 
