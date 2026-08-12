@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Marca Delivery 360</title><desc id="desc">Símbolo abstrato de visão integrada e crescimento.</desc>
+  <defs><linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d4050"/><stop offset="1" stop-color="#15846f"/></linearGradient></defs>
+  <rect x="10" y="10" width="200" height="200" rx="48" fill="#f4f8f8" stroke="#d8e5e4" stroke-width="4"/>
+  <path d="M64 128a48 48 0 1 1 29 27" fill="none" stroke="url(#m)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M146 68a48 48 0 1 1-29-27" fill="none" stroke="#8bc43f" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="64" cy="128" r="12" fill="#8bc43f"/><circle cx="146" cy="68" r="12" fill="#0d4050"/>
+  <text x="110" y="177" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0d4050">360°</text>
+</svg>
